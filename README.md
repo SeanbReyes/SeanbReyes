@@ -34,7 +34,6 @@ building scalable solutions, and expanding my knowledge in both **backend** and 
 ## 💼 Currently Working On
 
 - Studying low-level programming concepts (Rust & C++) to deepen understanding of systems programming.
-- Building a [personal project or open-source contribution](https://github.com/yourusername/yourproject) in [describe project briefly].
 
 
 
