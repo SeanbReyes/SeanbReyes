@@ -16,7 +16,7 @@ building scalable solutions, and expanding my knowledge in both **backend** and 
   - Structural: Adapter, Facade, Proxy, Composite
   - Creational: Singleton, Factory, Prototype, Builder
   - Architectural: Event Sourcing, Layered Architecture, CQRS, Hexagonal
-  - **Domain-Driven Design (DDD)** and **Event-Driven Design (EDD)**, recently 
+  - **Domain-Driven Design (DDD)** and **Event-Driven Design (EDD)**
 - **Other Knowledge Areas:** Object-Oriented Programming (OOP), Functional Programming (FP), SOLID principles, Data Structures, Algorithms, Low-Level Programming
 
 ## 🌐 About Me
