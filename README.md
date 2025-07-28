@@ -6,10 +6,10 @@ building scalable solutions, and expanding my knowledge in both **backend** and 
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** TypeScript, JavaScript, Rust, C++, C, Python
+- **Languages:** TypeScript, JavaScript, Rust, C++, C, Python, Go
 - **Frontend:** React, React Native, HTML, CSS, Expo
-- **Backend:** Node.js, NestJS, Express.js, Deno, Flask
-- **Databases** SqLite, PostgresSql, MongoDB, Elastic Search
+- **Backend:** Node.js, NestJS, Express.js, Deno, Flask, Gin
+- **Databases** SqLite, PostgresSql, MongoDB, Elastic Search, MySql
 - **Architecture:** Microservices, Monolithic, Serverless
 - **Design Patterns:** 
   - Behavioral: Saga, Observer, Strategy, Chain of Responsibility
@@ -30,7 +30,7 @@ building scalable solutions, and expanding my knowledge in both **backend** and 
 
 - **Production-Ready Microservices**: Developed, utilizing Docker, Kubernetes, and message brokers like RabbitMQ & Kafka.
 - **Design Patterns**: Experienced with a range of design patterns, including Domain-Driven Design (DDD), Event-Driven Architecture (EDA), and more. I value patterns that simplify codebases and enhance scalability.
-- **Low-Level Knowledge**: Familiar with memory management, data structures, and algorithms that contribute to high-performance applications.
+- **Low-Level Knowledge**: Familiar with memory management, network protocol design, data structures, and algorithms that contribute to high-performance applications.
 
 ## 💼 Currently Working On
 
